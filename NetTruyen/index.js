@@ -475,10 +475,10 @@ const isLastPage = ($) => {
 };
 exports.isLastPage = isLastPage;
 exports.NetTruyenInfo = {
-    version: '1.0.5',
+    version: '1.0.7',
     name: 'NetTruyen',
     icon: 'icon.png',
-    author: 'AlanNois',
+    author: 'AlanNois - Up by Me',
     authorWebsite: 'https://github.com/AlanNois/',
     description: 'Extension that pulls manga from NetTruyen.',
     contentRating: types_1.ContentRating.EVERYONE,
